@@ -1,0 +1,15 @@
+:root{
+    --background: #030712;
+    --text-color: #f8fafc;
+    --primary-color: #f97316;
+    --secondary-color: #0284c7;
+}
+
+*{
+    background: var(--background);
+    color: var(--text-color);
+}
+
+#Hero-text{
+    text-align: center;
+}
